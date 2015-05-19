@@ -107,9 +107,9 @@ EMAIL_USE_TLS = True
 
 EMAIL_HOST = 'smtp.gmail.com'
 
-EMAIL_HOST_USER = 'ravi.keshare@consultadd.com'
+EMAIL_HOST_USER = ''
 
-EMAIL_HOST_PASSWORD = 'myself8317'
+EMAIL_HOST_PASSWORD = ''
 
 
 
